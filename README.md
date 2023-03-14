@@ -1,4 +1,4 @@
-# mapdemo
+# upload
 
 ## Project setup
 ```
